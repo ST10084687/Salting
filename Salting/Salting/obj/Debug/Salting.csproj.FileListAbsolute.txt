@@ -1,0 +1,8 @@
+C:\Users\crais\source\repos\Salting\Salting\bin\Debug\Salting.exe.config
+C:\Users\crais\source\repos\Salting\Salting\bin\Debug\Salting.exe
+C:\Users\crais\source\repos\Salting\Salting\bin\Debug\Salting.pdb
+C:\Users\crais\source\repos\Salting\Salting\obj\Debug\Salting.csproj.AssemblyReference.cache
+C:\Users\crais\source\repos\Salting\Salting\obj\Debug\Salting.csproj.SuggestedBindingRedirects.cache
+C:\Users\crais\source\repos\Salting\Salting\obj\Debug\Salting.csproj.CoreCompileInputs.cache
+C:\Users\crais\source\repos\Salting\Salting\obj\Debug\Salting.exe
+C:\Users\crais\source\repos\Salting\Salting\obj\Debug\Salting.pdb
